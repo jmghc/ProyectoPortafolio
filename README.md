@@ -1,4 +1,4 @@
-Gestión de invetario.
+Gestión de inventario.
 
 Descripción:
 Aplicacion java utilizada para gestionar los datos de un inventario, pudiendo insertar, modificar, eliminar y mostrar(CRUD).
