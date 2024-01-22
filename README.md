@@ -10,7 +10,7 @@ El lenguaje utilizado es java y java swing para crear la parte gráfica.
 Base de datos con sql.
 Php para la conexion con la base de datos.
 
-Herrmientas:
+Herramientas:
 IDE: Netbean para la parte java de la aplicación.
 Postman para la parte php de la aplicación.
 Xammp para la conexion.
